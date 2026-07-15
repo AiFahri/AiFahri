@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Fahri Nuril Fikri 👋
 
-<!--
-**AiFahri/AiFahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at Universitas Brawijaya
 
-Here are some ideas to get you started:
+I enjoy building software that solves real-world and business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 Software Engineering Student at Universitas Brawijaya
+- 🚀 Built 10+ software development projects
+- 🌱 Currently learning Artificial Intelligence
+- 🏆 GenBI Awardee 2026
+- 🤝 Interested in Full Stack Engineering and AI
+
+## Currently
+
+- Building Full Stack applications
+- Learning AI & Machine Learning
+- Contributing to open-source and personal projects
+
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/fahrinuril/
+
+Email:
+fahrinurilll@gmai.com
+
